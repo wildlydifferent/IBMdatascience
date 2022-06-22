@@ -100,7 +100,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [
     {
@@ -109,11 +109,11 @@
      "text": [
       "Collecting sqlalchemy==1.3.9\n",
       "  Downloading SQLAlchemy-1.3.9.tar.gz (6.0 MB)\n",
-      "\u001b[2K     \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m6.0/6.0 MB\u001b[0m \u001b[31m77.7 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m:00:01\u001b[0m00:01\u001b[0m\n",
+      "\u001b[2K     \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m6.0/6.0 MB\u001b[0m \u001b[31m53.5 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m00:01\u001b[0m00:01\u001b[0m\n",
       "\u001b[?25h  Preparing metadata (setup.py) ... \u001b[?25ldone\n",
       "\u001b[?25hBuilding wheels for collected packages: sqlalchemy\n",
       "  Building wheel for sqlalchemy (setup.py) ... \u001b[?25ldone\n",
-      "\u001b[?25h  Created wheel for sqlalchemy: filename=SQLAlchemy-1.3.9-cp37-cp37m-linux_x86_64.whl size=1159121 sha256=eac5fb3b132d493f7e3b9f808343d92125843ab9a02b2744924a31a9592f019e\n",
+      "\u001b[?25h  Created wheel for sqlalchemy: filename=SQLAlchemy-1.3.9-cp37-cp37m-linux_x86_64.whl size=1159121 sha256=e79999aeaeb9dd2e388c2c8de91bfccced6dbca0eff72db40d34b3d2ce4da300\n",
       "  Stored in directory: /home/jupyterlab/.cache/pip/wheels/03/71/13/010faf12246f72dc76b4150e6e599d13a85b4435e06fb9e51f\n",
       "Successfully built sqlalchemy\n",
       "Installing collected packages: sqlalchemy\n",
@@ -140,7 +140,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -149,7 +149,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 4,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -161,7 +161,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 5,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -170,7 +170,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 6,
    "metadata": {},
    "outputs": [
     {
@@ -179,7 +179,7 @@
        "'Connected: @my_data1.db'"
       ]
      },
-     "execution_count": 5,
+     "execution_count": 6,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -909,7 +909,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 127,
+   "execution_count": 7,
    "metadata": {},
    "outputs": [
     {
@@ -949,7 +949,7 @@
        "[(1, 'Success (ground pad)', 3), (2, 'Success (drone ship)', 3)]"
       ]
      },
-     "execution_count": 127,
+     "execution_count": 7,
      "metadata": {},
      "output_type": "execute_result"
     }
